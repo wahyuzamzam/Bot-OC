@@ -1,7 +1,7 @@
 {
   "name": "ohim-community-bot",
   "version": "1.0.0",
-  "description": "Discord Store Bot",
+  "description": "Official Ohim Community Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
